@@ -51,7 +51,7 @@ Check out [gatsby-starter-reason](https://github.com/jtberglund/gatsby-starter-r
     ```json
     {
         "name": "my-gatsby-app",
-        "reason": { "react-jsx": 2 },
+        "reason": { "react-jsx": 3 },
         "bs-dependencies": ["reason-react"],
         "sources": [
             {
